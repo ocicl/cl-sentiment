@@ -1,0 +1,10 @@
+* cl-sentiment
+
+A sentiment analysis library for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/RobBlackwell/cl-sentiment.git   |
+| commit  | 23edf5f  |
+| systems | cl-sentiment |
+|---------+-------------------------------------------|
+
